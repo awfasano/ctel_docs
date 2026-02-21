@@ -1,0 +1,9 @@
+title: CTel RAG System
+description: Technical documentation for the CTel Telehealth RAG pipeline
+theme: jekyll-theme-cayman
+baseurl: /ctel_docs
+url: https://awfasano.github.io
+markdown: kramdown
+kramdown:
+  input: GFM
+  toc_levels: "1..3"
